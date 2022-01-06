@@ -1,6 +1,6 @@
 #include <iostream>
 #include <string>
-#include "version.cpp"
+#include "version.h"
 //  $ g++ hello_world.cpp -o hello -std=c++14
 int main(int argc, char* argv[]){
     std::cout << "Hello, world!" << std::endl;
